@@ -1,0 +1,3 @@
+Center A,1000
+Center B,1500
+Center C,800
